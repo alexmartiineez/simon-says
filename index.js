@@ -69,7 +69,7 @@ class Juego{
     }
 
     elegirColor(ev) {
-      
+       
     }
 }
 
